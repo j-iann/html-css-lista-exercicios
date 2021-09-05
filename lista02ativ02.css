@@ -1,0 +1,20 @@
+body::after {
+    background:url(https://www.viajali.com.br/wp-content/uploads/2018/02/boa-viagem-pe-1-730x547.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0; 
+    z-index: -1;   
+}
+
+  #poema {
+    float: right;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

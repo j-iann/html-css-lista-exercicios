@@ -1,0 +1,33 @@
+body {
+    background-color: pink;
+}
+
+img {
+    box-shadow: 4px 4px darksalmon;
+    border-radius: 15%;
+}
+
+p {
+    background-color: white;
+    line-height: 400%;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid orange;
+}
+
+#imagem {
+    display: flex;
+    justify-content: center;
+}
+
+footer, h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: white;
+}
+
+h1 {
+    text-shadow: red 2px 2px;
+}

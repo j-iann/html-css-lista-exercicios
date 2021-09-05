@@ -1,0 +1,33 @@
+h3 {
+    border-bottom: 3px solid black;
+    color: blue;
+}
+
+table {
+    width: 450px;
+    margin: 0 auto;
+}
+
+th {
+    text-align: center;
+}
+
+.italico {
+    font-style: italic;
+}
+
+tr:nth-child(odd) {
+    background-color: silver;
+}
+  
+.nota-boa, .nota-ruim {
+    text-align: center;
+}
+
+.nota-boa {
+    color: green;
+}
+
+.nota-ruim {
+    color: red;
+}

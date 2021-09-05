@@ -1,0 +1,17 @@
+img {
+    width: 150px;
+    height: 200px;
+}
+
+ul, ol {
+    border: 5px solid pink;
+}
+
+.div1, .div2 {
+    display: flex;
+    align-items: center;
+}
+
+li {
+    color: indigo;
+}
